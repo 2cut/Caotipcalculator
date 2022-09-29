@@ -15,7 +15,13 @@ public class Caotipcalc {
         /* Calculating */
         double tip = (double) bill*percent/100;
         double tipper = (double) tip/people;
+        double billtip = bill + tip;
+        double totalper = billtip/people;
+
+        /* Results */
         System.out.println("Your total tip is " + tip);
-        System.out.println("The total tip for each person is " + tipper);
+        System.out.println("The total bill including tip is " + billtip);
+        System.out.println("The tip per person is " + tipper);
+        System.out.println("The total for each person is " + totalper);
     }
 }
