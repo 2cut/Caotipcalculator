@@ -13,8 +13,8 @@ public class Caotipcalc {
         double people = scan.nextDouble();
 
         /* Calculating */
-        double tip = (double) bill*percent/100;
-        double tipper = (double) tip/people;
+        double tip = bill*percent/100;
+        double tipper = tip/people;
         double billtip = bill + tip;
         double totalper = billtip/people;
 

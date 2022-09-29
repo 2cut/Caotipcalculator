@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d426b82a-4c54-45e4-981d-9293761c2316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Caotipcalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caotipcalc.java" afterDir="false" />
-    </list>
+    <list default="true" id="d426b82a-4c54-45e4-981d-9293761c2316" name="Changes" comment="Finished adding features" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664381061102</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished adding features">
+      <created>1664414289733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664414289733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished adding features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished adding features" />
   </component>
 </project>
