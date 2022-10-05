@@ -15,7 +15,7 @@ public class Caotipcalc {
         /* Calculating Results*/
         double tip = bill*percent/100;
         double tipPer = tip/people;
-        // Using Math.round method after multiplying by 100 allows us to round to the hundredths place one divided back
+        // Using Math.round method after multiplying by 100 allows us to round to the hundredths place once divided back
         double roundTipper = Math.round(tipPer*100.0);
         double billTip = bill + tip;
         double totalPer = billTip/people;
