@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d426b82a-4c54-45e4-981d-9293761c2316" name="Changes" comment="Fixed rounding">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d426b82a-4c54-45e4-981d-9293761c2316" name="Changes" comment="Done">
       <change beforePath="$PROJECT_DIR$/src/Caotipcalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caotipcalc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664639772279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done">
+      <created>1664935458331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664935458331</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done">
+      <created>1664935551017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664935551017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished adding features" />
     <MESSAGE value="Fixed rounding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed rounding" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
