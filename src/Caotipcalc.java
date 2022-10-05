@@ -1,8 +1,8 @@
-import java.util.Scanner;
+import java.util.Scanner; //importing a function that lets use receive user input
 
 public class Caotipcalc {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in); //creating a obj to use Scanner methods
 
         /* Asking questions to get values for bill amount, tip percent, and total people*/
         System.out.println("How much was the bill?");
