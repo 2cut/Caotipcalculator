@@ -14,8 +14,8 @@ public class Caotipcalc {
 
         /* Calculating */
         double tip = bill*percent/100;
-        double tipper = tip/people;
-        double roundTipper = Math.round(tipper*100.0);
+        double tipPer = tip/people;
+        double roundTipper = Math.round(tipPer*100.0);
         double billTip = bill + tip;
         double totalPer = billTip/people;
 
